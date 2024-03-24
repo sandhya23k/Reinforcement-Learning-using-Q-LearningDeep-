@@ -1,0 +1,4 @@
+Testing with QTable !......
+testing Done by choosing action from the Qtable...!
+Success count in 10 trials: 6
+Total time taken for 10 trials: 5.692904949188232 seconds
